@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:3
 
 ARG S3_FUSE_VERSION=v1.86
 
