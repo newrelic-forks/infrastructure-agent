@@ -1,4 +1,4 @@
-FROM golang:1.15-alpine
+FROM golang:1.21.13-alpine
 
 RUN apk add --no-cache bash git alpine-sdk
 
