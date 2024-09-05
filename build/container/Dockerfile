@@ -1,4 +1,4 @@
-ARG base_image=alpine:3.12
+ARG base_image=alpine:3.17
 
 FROM $base_image AS core
 
