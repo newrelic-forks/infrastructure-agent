@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:3.17
 
 ARG GORELEASER_VERSION='v0.143.0'
 
